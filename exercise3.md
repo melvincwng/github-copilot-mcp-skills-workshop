@@ -32,6 +32,7 @@ In this exercise, you will connect to the [GitHub MCP server](https://github.com
 1. Select **Start** above the GitHub server definition.
 1. When prompted, allow the server to authenticate to GitHub.
 1. Select **Configure Tools** in Copilot Chat and confirm that GitHub tools such as `list_issues`, `get_file_contents`, and `create_pull_request` are available.
+2. If fail to connect to GH server, e.g. 'Unauthorized: No valid session for this codespace` > Open Command Palette (Cmd Shift P or Cltrl Shift P) > Developer: Reload Window > and Try again
 
 ### GitHub Copilot CLI
 
