@@ -28,7 +28,7 @@ Microsoft Learn MCP is a remote HTTP server at `https://learn.microsoft.com/api/
    }
    ```
 
-2. Save the file and select **Start** above the server definition. If VS Code asks whether you trust the server, review the URL and approve it.
+2. Save the file, run VSCode Command Palette (Ctrl+Shift+P or Cmd+Shift+P),  run MCP: List Servers, select microsoft-learn, and select **Start** above the server definition. If VS Code asks whether you trust the server, review the URL and approve it.
 3. Open Copilot Chat in **Agent** mode.
 4. Select **Configure Tools** in the chat input and expand `microsoft-learn`. You should see three tools listed.
 
